@@ -7,6 +7,6 @@ public class Part02_01{
         
         System.out.println("Write a second number here: ");
         int secondNumber = input.nextInt();
-        System.out.println((firstNumber + secondNumber) * (firstNumber + secondNumber));
+        System.out.println(Math.sqrt(firstNumber + secondNumber));
     }
 }
