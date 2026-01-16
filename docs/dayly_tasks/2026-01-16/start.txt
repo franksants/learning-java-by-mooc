@@ -1,0 +1,6 @@
+2026-01-16:
+
+- finish the second part of mooc's java.
+- finish the third part of mooc's java.
+
+-- deadline by 05:00am.
